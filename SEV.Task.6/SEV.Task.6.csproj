@@ -1,0 +1,75 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>SEV.Task._6</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\1.jpg" />
+    <None Remove="Images\10.jpg" />
+    <None Remove="Images\11.jpg" />
+    <None Remove="Images\12.jpg" />
+    <None Remove="Images\13.jpg" />
+    <None Remove="Images\2.jpg" />
+    <None Remove="Images\3.jpg" />
+    <None Remove="Images\4.jpg" />
+    <None Remove="Images\5.jpg" />
+    <None Remove="Images\6.jpg" />
+    <None Remove="Images\7.jpg" />
+    <None Remove="Images\8.jpg" />
+    <None Remove="Images\9.jpg" />
+    <None Remove="Images\MainPage.jpg" />
+    <None Remove="Images\Task1.jpg" />
+    <None Remove="Images\Task10.jpg" />
+    <None Remove="Images\Task11.jpg" />
+    <None Remove="Images\Task12.jpg" />
+    <None Remove="Images\Task13.jpg" />
+    <None Remove="Images\Task2.jpg" />
+    <None Remove="Images\Task3.jpg" />
+    <None Remove="Images\Task4.jpg" />
+    <None Remove="Images\Task5.jpg" />
+    <None Remove="Images\Task6.jpg" />
+    <None Remove="Images\Task7.jpg" />
+    <None Remove="Images\Task8.jpg" />
+    <None Remove="Images\Task9.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignColors" Version="2.1.2" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\1.jpg" />
+    <Resource Include="Images\10.jpg" />
+    <Resource Include="Images\11.jpg" />
+    <Resource Include="Images\12.jpg" />
+    <Resource Include="Images\2.jpg" />
+    <Resource Include="Images\3.jpg" />
+    <Resource Include="Images\4.jpg" />
+    <Resource Include="Images\5.jpg" />
+    <Resource Include="Images\6.jpg" />
+    <Resource Include="Images\7.jpg" />
+    <Resource Include="Images\8.jpg" />
+    <Resource Include="Images\9.jpg" />
+    <Resource Include="Images\MainPage.jpg" />
+    <Resource Include="Images\Task1.jpg" />
+    <Resource Include="Images\Task10.jpg" />
+    <Resource Include="Images\Task11.jpg" />
+    <Resource Include="Images\Task12.jpg" />
+    <Resource Include="Images\Task13.jpg" />
+    <Resource Include="Images\Task2.jpg" />
+    <Resource Include="Images\Task3.jpg" />
+    <Resource Include="Images\Task4.jpg" />
+    <Resource Include="Images\Task5.jpg" />
+    <Resource Include="Images\Task6.jpg" />
+    <Resource Include="Images\Task7.jpg" />
+    <Resource Include="Images\Task8.jpg" />
+    <Resource Include="Images\Task9.jpg" />
+  </ItemGroup>
+
+</Project>
